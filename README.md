@@ -23,6 +23,7 @@ Penerapan teknologi computer vision dalam sistem verifikasi pengemudi ojek onlin
 - Menganalisis kelebihan metode tradisional vs deep learning
 - Menentukan model terbaik untuk klasifikasi penggunaan helm berbasis swafoto
 
+## Tantangan 
 Namun, data swafoto memiliki beberapa tantangan, seperti:
 - Variasi pencahayaan dan sudut pengambilan gambar
 - Latar belakang tidak terkontrol
