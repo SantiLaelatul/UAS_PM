@@ -3,6 +3,9 @@
 ## Topik
 Klasifikasi Citra Digital
 
+## Nama Anggota
+1. Santi Laelatul Mu'azaroh (004)
+2. Fridania Nisa Calita (208)
 ---
 
 ## Deskripsi Proyek
